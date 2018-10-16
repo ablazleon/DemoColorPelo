@@ -14,6 +14,7 @@
 		3A72472B2175D8A100DCA9A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A7247292175D8A100DCA9A5 /* LaunchScreen.storyboard */; };
 		3A7247362175D8A100DCA9A5 /* DemoColorPeloTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A7247352175D8A100DCA9A5 /* DemoColorPeloTests.swift */; };
 		3A7247412175D8A100DCA9A5 /* DemoColorPeloUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A7247402175D8A100DCA9A5 /* DemoColorPeloUITests.swift */; };
+		3A72474F2175D8E900DCA9A5 /* ResultadosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A72474E2175D8E900DCA9A5 /* ResultadosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3A72473C2175D8A100DCA9A5 /* DemoColorPeloUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoColorPeloUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A7247402175D8A100DCA9A5 /* DemoColorPeloUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoColorPeloUITests.swift; sourceTree = "<group>"; };
 		3A7247422175D8A100DCA9A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A72474E2175D8E900DCA9A5 /* ResultadosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultadosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				3A7247202175D8A100DCA9A5 /* AppDelegate.swift */,
 				3A7247222175D8A100DCA9A5 /* ViewController.swift */,
+				3A72474E2175D8E900DCA9A5 /* ResultadosViewController.swift */,
 				3A7247242175D8A100DCA9A5 /* Main.storyboard */,
 				3A7247272175D8A100DCA9A5 /* Assets.xcassets */,
 				3A7247292175D8A100DCA9A5 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A72474F2175D8E900DCA9A5 /* ResultadosViewController.swift in Sources */,
 				3A7247232175D8A100DCA9A5 /* ViewController.swift in Sources */,
 				3A7247212175D8A100DCA9A5 /* AppDelegate.swift in Sources */,
 			);
